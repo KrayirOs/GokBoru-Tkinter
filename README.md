@@ -18,3 +18,18 @@ Python 3.8 veya üzeri bir sürüm kullanılması önerilir.
 ### 1. Projeyi GitHub üzerinden klonlayın
 ```bash
 git clone [https://github.com/krayiros/GokBoru-Tkinter.git](https://github.com/krayiros/GokBoru-Tkinter.git)
+# 1. Projeyi GitHub üzerinden klonlayın
+git clone https://github.com/kullaniciadi/yolov11-projem.git
+
+# 2. Proje klasörüne geçin
+cd yolov11-projem
+
+# 3. Gerekli bağımlılıkları yükleyin
+pip install -r requirements.txt
+
+# 4. Model dosyalarını indir (örneğin yolov11.pt gibi)
+Dosyana dahil et
+
+
+# 5. Projeyi çalıştırın (örnek komut)
+python main.py
