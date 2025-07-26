@@ -4,6 +4,8 @@ GökBörü, canlı kamera görüntüleri veya yüklü resimler üzerinden nesne 
 
 Bu proje; yangın tespiti, güvenlik izleme, otonom sistemler ve görüntü işleme uygulamaları geliştirmek isteyen öğrenciler, araştırmacılar ve geliştiriciler için tasarlanmıştır.
 
+<img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/0ea786e3-034d-4b04-b37b-0aa0babe6a27" />
+
 ## Özellikler:
 * Kamera veya yerel görsel üzerinden analiz
 * YOLOv11 destekli nesne tanıma sistemi
@@ -14,6 +16,8 @@ Bu proje; yangın tespiti, güvenlik izleme, otonom sistemler ve görüntü işl
 
 ## Kurulum
 Python 3.8 veya üzeri bir sürüm kullanılması önerilir.
+
+
 
 ### 1. Projeyi GitHub üzerinden klonlayın
 ```bash
